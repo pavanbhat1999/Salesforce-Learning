@@ -5,9 +5,6 @@ OOPS Concepts
 3. Abstraction
 4. Polymorphism
 
-
-![img](test.png)
-
 abstract class 
 wrapper class 
 
